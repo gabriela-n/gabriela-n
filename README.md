@@ -36,4 +36,4 @@
 
 
 <p align="right">
-<a href="https://instagram.com/g_nikolova_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_nikolova_" height="30" width="40" /></a>
+<a href="https://instagram.com/gabrielanikolovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielanikolovv" height="30" width="40" /></a>
